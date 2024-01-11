@@ -5,31 +5,31 @@
   padding: 20px;
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.518);
   background: linear-gradient(to bottom right, #124495, #00060a);
-  color: #ffffff; /* Set text color to white for better contrast */
+  color: #ffffff; 
   margin-top: 20px;
   font-family: 'Afacad', sans-serif;
 }
 
-/* Additional styles for better contrast and readability */
+
 .main-heading h3 {
   margin: 0;
-  color: #ffffff; /* Dark text color for headings */
+  color: #ffffff; 
 }
 
 .ans {
   margin-top: 10px;
   transition: 0.5s;
-  color: #e6e6e6; /* Dark text color for answers */
+  color: #e6e6e6; 
 }
 
 p {
   text-align: left;
-  color: #ffffff; /* Dark text color for paragraphs */
+  color: #ffffff; 
 }
 
 .box {
   display: inline-block;
-  width: 500px; /* Set the width as per your requirement */
+  width: 500px; 
   border: 1px solid #ccc;
   margin: 10px;
   padding: 10px;
@@ -45,8 +45,8 @@ p {
 
 .btn {
   margin-right: 15px;
-  background-color: #aeedff; /* Green button color */
-  color: #fff; /* White text color for buttons */
+  background-color: #aeedff; 
+  color: #fff; 
   padding: 10px 15px;
   border: none;
   cursor: pointer;
@@ -55,7 +55,7 @@ p {
 }
 
 .btn:hover {
-  background-color: #cfcfcf; /* Darker green on hover */
+  background-color: #cfcfcf; 
   
   transition: 0.3s;
 }
